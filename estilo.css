@@ -1,0 +1,15 @@
+body {
+    display: grid;
+    place-content: center;
+    text-align: center;
+    background-color: lawngreen;
+}
+
+#contenedor-titulos {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#titulo-principal {
+    font-style: unset;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
